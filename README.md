@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning more about Full Stack WEB3 Development.
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UC1R-hSoUVH9p3NpYf5gfrGw).
 - 📫 How to reach me ...[Linkedin - @Anmolsen](https://www.linkedin.com/in/anmol-sen-603836126).
--😄 Pronouns: He/His
+- 😄 Pronouns: He/His
 - ⚡ Fun fact: I would love to work with same minded people like me as a team.
 <!---
 Anmo1Sen/Anmo1Sen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
