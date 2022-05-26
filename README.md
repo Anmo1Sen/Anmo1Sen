@@ -1,4 +1,4 @@
-## Hola, I'm [Anmol Sen!](https://github.com/Anmo1Sen/) 👋
+## Namastae🙏, I'm [Anmol Sen!](https://github.com/Anmo1Sen/) 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="anmolsen" /> </p>
 
