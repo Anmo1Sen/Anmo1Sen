@@ -19,7 +19,7 @@
 Anmo1Sen/Anmo1Sen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-**Languages and Tools:**  
+ 
 
 <div>
   <h3> 💻 Languages and Tools </h3>
