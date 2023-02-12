@@ -1,8 +1,5 @@
 ## Namaste🙏, I'm [Anmol Sen!](https://github.com/Anmo1Sen/)  🚀 Blockchain Software Developer 🚀
 
-<br/>
-<br/>
-
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -10,9 +7,6 @@
 - 👀 I’m interested in ⚡DEFI-NFT Dapps.
 - 🌱 I’m currently learning more about Full Stack WEB3 Development.
 - 👯 I’m looking to collaborate on a tech project integrating Blockchain.
-
-
-<br/>
 
 <h3>🛠 Tech Stack</h3>
 
