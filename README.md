@@ -1,14 +1,6 @@
 ## Namaste🙏, I'm [Anmol Sen!](https://github.com/Anmo1Sen/)  🚀 Blockchain Software Developer 🚀
 
-<p>
-<a href="https://www.linkedin.com/in/anmol-sen-603836126">
-  <img align="left" alt="Anmol's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/Anmo1Sen">
-  <img align="left" alt="Anmol's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-  <p>
-    
+<br/>
 <br/>
 
 
