@@ -1,4 +1,4 @@
-## Namaste🙏, I'm [Anmol Sen!](https://github.com/Anmo1Sen/) 
+## Namaste🙏, I'm [Anmol Sen!](https://github.com/Anmo1Sen/)  🚀 Blockchain Software Developer 🚀
 
 <p>
 <a href="https://www.linkedin.com/in/anmol-sen-603836126">
@@ -10,9 +10,7 @@
   <p>
     
 <br/>
-<h3 align="center">🚀 Blockchain Developer | MERN Stack |  FrontEnd Programmer  🚀</h3>
 
-<br/>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
