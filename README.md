@@ -4,13 +4,13 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 📫 How to reach me ...[My Portfolio](https://anmolsen.netlify.app/).
-- 👀 I’m interested in ⚡DEFI-NFT Dapps.
+- 👀 I’m interested in ⚡Decentralised-apps.
 - 🌱 I’m currently learning more about Full Stack WEB3 Development.
 - 👯 I’m looking to collaborate on a tech project integrating Blockchain.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp;  Javascript | Solidity |
+- 💻 &nbsp;  Javascript| Python| Solidity 
 - 🌐 &nbsp; HTML | CSS | Tailwind |  ReactJS | EthersJS
 - 🛢 &nbsp; MySQL | MongoDB | IPFS & Subgraph.
 - 🔧 &nbsp; NodeJS| Hardhat|  
